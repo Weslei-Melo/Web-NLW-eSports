@@ -1,5 +1,6 @@
 import { MagnifyingGlassPlus } from "phosphor-react";
 import * as Dialog from '@radix-ui/react-dialog'
+
 export function CreateAdBanner() {
     return (
         <div className='pt-1 bg-nlw-gradient self-stretch rounded-lg overflow-hidden mt-8'>
